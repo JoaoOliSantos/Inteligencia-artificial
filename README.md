@@ -11,3 +11,5 @@ Mostrar catálogo de produtos.
 - Calcular valores e condições de pagamento (pix, dinheiro e crédito).
 - Oferecer opções de agendamento de pagamento apenas em dias úteis a partir do 15º dia.
 - Gerar resumo automático das últimas 3 interações do usuário.
+
+Segue link do Youtube com video sobre o projeto:  https://youtu.be/88X0JezwfhQ
