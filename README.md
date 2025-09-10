@@ -12,4 +12,8 @@ Mostrar catálogo de produtos.
 - Oferecer opções de agendamento de pagamento apenas em dias úteis a partir do 15º dia.
 - Gerar resumo automático das últimas 3 interações do usuário.
 
+Como rodar o projeto:
+- Abra uma instancia no curso de DeeplearningAi
+- Baixe o notebook disponibilizado em arquivos.
+
 Segue link do Youtube com video sobre o projeto:  https://youtu.be/88X0JezwfhQ
